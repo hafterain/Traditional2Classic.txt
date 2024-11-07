@@ -18,4 +18,4 @@
 
 ## 许可证
 
-[MIT许可证]。
+[MIT许可证](https://github.com/hafterain/Traditional2Classic.txt/blob/main/LICENSE)。
